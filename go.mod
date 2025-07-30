@@ -1,4 +1,4 @@
-module github.com/aquasecurity/libbpfgo
+module github.com/pcolladosoto/libbpfgo
 
 go 1.21
 
