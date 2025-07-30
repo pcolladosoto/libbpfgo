@@ -1,7 +1,6 @@
 package libbpfgo
 
 /*
-#cgo LDFLAGS: -lelf -lz
 #include "libbpfgo.h"
 */
 import "C"
